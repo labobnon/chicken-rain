@@ -1,0 +1,3 @@
+player.onChat("checken", function () {
+	
+})
